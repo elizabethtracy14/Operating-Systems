@@ -5,3 +5,7 @@ This helps protect your eyes when you are working on your computer at night.
 Another macOS function is stacks.
 You can multitask, and have multiple apps open at the same time. 
 They stack on top of each other and you can zoom out to see all the programs or apps you have open at one time for easy access.
+
+MacOS runs Unix applications as well as older mac applications. 
+It has been Unix compliant since 2007. 
+Apple's code has been combined with parts of Mach and BSD kernels.
