@@ -1,0 +1,3 @@
+One of the macOS functions is Dark mode. 
+Dark mode turns everything that is usally white, a darker color like grey or black. 
+This helps protect your eyes when you are working on your computer at night.
